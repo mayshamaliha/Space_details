@@ -1,0 +1,39 @@
+.main{
+    margin: 20px 20% 20px 20%;
+    border: 1px solid;
+    border-color: #DCDCDC;
+    box-shadow: 5px 8px 10px 0px #888888;
+    padding: 20px;
+}
+.Progress{
+    border:#888888 1px hidden;
+    margin-top: 40px ;
+    margin-bottom: 30px;
+}
+.ProgressItems{
+    padding: 5px;
+    
+}
+.ProgressItems input{
+    width: 150px;
+    height: 30px;
+    margin: 5px;
+}
+
+.submit{
+    background-color: #ef5359;
+    color: white;
+    border-style: hidden;
+    padding: 10px 20px 10px 20px;
+    font-size: 18px;
+    font-weight: 100;
+    border-radius: 5px;
+    margin: 20px;
+    width: 80px;
+    height: 30px;
+}
+.ProgressItems{
+    margin-bottom: 50px;
+    margin-left: 20px;
+    padding-left: 20px;
+}

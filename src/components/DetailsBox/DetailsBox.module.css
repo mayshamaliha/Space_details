@@ -1,0 +1,93 @@
+.main{
+    margin: 20px 20% 20px 20%;
+    border: 1px solid;
+    border-color: #DCDCDC;
+    box-shadow: 5px 8px 10px 0px #888888;
+    padding: 20px;
+}
+body{
+    font-size: 15px;
+}
+.Area input{
+    margin: 5px;
+    padding: 3px;
+    width: 120px;
+    border:  solid 2px;
+    border-color: #e0e0d1;
+    background-color:#f5f5f0;
+    height: 25px;
+}
+.Volume input{
+    margin: 5px;
+    padding: 3px;
+    width: 120px;
+    border:  solid 2px;
+    border-color: #e0e0d1;
+    background-color:#f5f5f0;
+    height: 25px;
+}
+.DesignArea input{
+    margin: 5px;
+    padding: 3px;
+    width: 120px;
+    border:  solid 2px;
+    border-color: #e0e0d1;
+    background-color:#f5f5f0;
+    height: 25px;
+}
+#DetailsBox{
+    padding: 10px;
+}
+#Details{
+    border: 1px solid;
+    border-color: #DCDCDC;
+    margin: 50px 10px 10px 10px;
+    border-radius: 5px;
+}
+.ZoneTitle{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+    margin-bottom: 20px;
+    padding-left: 10px;
+}
+
+td, th {
+    padding-left: 50px;
+    padding-right: 50px;
+    border: #e0e0d1 1px solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+
+  }
+table{
+    margin: 5px;
+   
+    font-size: 15px;
+    font-weight: 600px;
+    border:  solid 2px;
+    border-color: #e0e0d1;
+    background-color:#f5f5f0;
+    height: 25px;
+    border-collapse: collapse;
+    width: 70%
+}
+.DescriptionBox{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+    padding-left: 10px;
+}
+
+.DescriptionArea{
+    margin: 5px;
+    padding: 3px;
+    width: 60%;
+    height: 50%;
+    border:  solid 3px;
+    border-color: #C9C9BC;
+    background-color:#f5f5f0;
+    /*background-color:#f5f5f0;*/
+   
+}
